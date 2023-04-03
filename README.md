@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I'm a software engineering student at the State College of Pará (UEPA)<br>🇧🇷  I'm Brazilian and I live in the state of Pará<br>🌱 I am currently learning Java, Javascript, react native and angular<br>
+🔭 I'm a software engineering student at the State College of Pará (UEPA)<br>🇧🇷    I'm Brazilian and I live in the state of Pará<br>🌱 I am currently learning Java, Javascript, react native and angular<br>
 
 
 ## 🌐 Socials:
