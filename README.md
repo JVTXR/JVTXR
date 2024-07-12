@@ -12,6 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jvtxr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jvtxr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![An image of @jvtxr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jvtxr)](https://holopin.io/@jvtxr)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
