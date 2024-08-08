@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I'm a software engineering student at the State College of Pará (UEPA)<br>🇧🇷    I'm Brazilian and I live in the state of Pará<br>🌱 I am currently learning Java, Javascript, react native and angular<br>
+🔭 I'm a software engineering student at the State College of Pará (UEPA)<br>🇧🇷    I'm Brazilian and I live in the state of Pará<br>🌱 I am currently learning kotlin, unity and GameMaker<br>
 
 
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jvictor_xx2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jvictorsdias) 
